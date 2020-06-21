@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ezzie\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ezzie\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_kolokwiumAPBD.1853663541.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ezzie\Desktop\studia\6SEMESTR\APBD\repo\kolokwiumapbd\kolokwiumapbd" t="IncludeFlat">
+      <e p="kolokwiumapbd" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include" />
+        <e p="kolokwiumAPBD.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Artist.cs" t="Include" />
+          <e p="ArtistEvent.cs" t="Include" />
+          <e p="Event.cs" t="Include" />
+          <e p="EventOrganiser.cs" t="Include" />
+          <e p="MyDbContext.cs" t="Include" />
+          <e p="Organiser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="kolokwiumAPBD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Service.cs" t="Include" />
+        <e p="Services" t="Include">
+          <e p="EfMyDbService.cs" t="Include" />
+          <e p="IMyDbService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="kolokwiumAPBD.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
